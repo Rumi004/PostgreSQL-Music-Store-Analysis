@@ -103,7 +103,6 @@ This project uses SQL to answer questions such as:
 
 ## 📁 Project Structure
 
-```text
 PostgreSQL-Music-Store-Analysis
 │
 ├── README.md
@@ -112,7 +111,6 @@ PostgreSQL-Music-Store-Analysis
 │
 └── Music_Store_database.sql
 
-```markdown
 ## 🗃️ Database Schema
 
 The project uses a relational database structure connecting customers, invoices, tracks, albums, artists, genres, employees, and related entities.
