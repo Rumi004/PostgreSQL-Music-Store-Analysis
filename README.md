@@ -111,3 +111,34 @@ PostgreSQL-Music-Store-Analysis
 │   └── music_store_analysis.sql
 │
 └── Music_Store_database.sql
+
+```markdown
+## 🗃️ Database Schema
+
+The project uses a relational database structure connecting customers, invoices, tracks, albums, artists, genres, employees, and related entities.
+
+![Music Store Database Schema](images/MusicDatabaseSchema.png)
+
+The schema helps illustrate the relationships between the tables used throughout the analysis.
+
+## 📋 Analysis Questions
+
+The project is structured around business questions covering three levels of SQL analysis:
+
+- **Easy:** Invoice analysis, customer spending, country-level invoice activity, and sales by city
+- **Moderate:** Rock music listeners, Rock artists, and above-average track duration
+- **Advanced:** Customer spending by artist, popular genres by country, and highest-spending customers by country
+
+The complete set of analysis questions is available in the project documentation:
+
+[View Analysis Questions](docs/Music%20Store%20Analysis-Questions.pdf)
+
+## 📌 Project Type
+
+**Data Analytics | SQL | PostgreSQL | Relational Database Analysis**
+
+## 👩‍💻 Author
+
+**Bhavya Verma**
+
+GitHub: [@Rumi004](https://github.com/Rumi004)
